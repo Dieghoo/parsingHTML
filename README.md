@@ -1,2 +1,2 @@
 # parsingHTML
-Descubra subdomínios e seus respectivos IPs
+Descubra subdomínios de sites e seus respectivos IPs
